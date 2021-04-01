@@ -1,0 +1,20 @@
+{
+  "name": "shopify-test-app",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.3.13",
+    "@babel/preset-react": "^7.13.13",
+    "@rails/webpacker": "5.2.1",
+    "@shopify/app-bridge-utils": "1.26.0",
+    "@shopify/polaris": "^6.2.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "graphql": "^15.5.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react_ujs": "^2.6.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}
